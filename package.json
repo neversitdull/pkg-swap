@@ -5,6 +5,15 @@
   "description": "Quickly convert and paste copied npm commands to your preferred package manager",
   "icon": "extension_icon.png",
   "author": "neversitdull",
+  "access": "public",
+  "keywords": [
+    "package",
+    "manager",
+    "npm",
+    "pnpm",
+    "yarn",
+    "bun"
+  ],
   "categories": [
     "Developer Tools"
   ],
